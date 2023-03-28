@@ -3,6 +3,10 @@
 </h2>
 
 <h2 align="left">
+  <a href="https://aaoe.github.io/Games/snake">贪吃蛇-Snake</a>
+</h2>
+
+<h2 align="left">
   <a href="https://aaoe.github.io/pacman-canvas">吃豆人-Pacman</a>
 </h2>
 
@@ -19,7 +23,7 @@
 </h2>
 
 <h2 align="left">
-  <a href="https://aaoe.github.io/pacman-lila">国际象棋-Chinese Chess</a>
+  <a href="https://aaoe.github.io/pacman-lila">国际象棋-Chess</a>
 </h2>
 
 <h2 align="left">
