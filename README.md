@@ -7,6 +7,10 @@
 </h2>
 
 <h2 align="left">
+  <a href="https://aaoe.github.io/Games/reversi">黑白棋-Reversi</a>
+</h2>
+
+<h2 align="left">
   <a href="https://aaoe.github.io/Games/gomoku">五子棋-Gomoku</a>
 </h2>
 
