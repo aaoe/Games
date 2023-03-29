@@ -23,13 +23,5 @@
 </h2>
 
 <h2 align="left">
-  <a href="https://aaoe.github.io/pacman-lila">国际象棋-Chess</a>
-</h2>
-
-<h2 align="left">
   <a href="https://aaoe.github.io/Games/tetris/index.html?lan=zh">俄罗斯方块-Tetris</a>
-</h2>
-
-<h2 align="left">
-  <a href="https://aaoe.github.io/backbone-game-engine">超级马里奥-Tetris</a>
 </h2>
