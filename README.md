@@ -25,3 +25,7 @@
 <h2 align="left">
   <a href="https://aaoe.github.io/Games/tetris/index.html?lan=zh">俄罗斯方块-Tetris</a>
 </h2>
+
+<h2 align="left">
+  <a href="https://aaoe.github.io/bigwatermelon">合成大西瓜-Watermelon</a>
+</h2>
