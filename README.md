@@ -3,6 +3,10 @@
 </h2>
 
 <h2 align="left">
+  <a href="https://aaoe.github.io/Games/rubik">魔方-Rubik</a>
+</h2>
+
+<h2 align="left">
   <a href="https://aaoe.github.io/Games/snake">贪吃蛇-Snake</a>
 </h2>
 
