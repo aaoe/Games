@@ -15,7 +15,7 @@
 </h2>
 
 <h2 align="left">
-  <a href="https://aaoe.github.io/Games/gomoku">五子棋-Gomoku</a>
+  <a href="https://aaoe.github.io/js_gobang/">五子棋-Gobang</a>
 </h2>
 
 <h2 align="left">
