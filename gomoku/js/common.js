@@ -2,7 +2,7 @@
 
 var com = com||{};
 
-com.init = function (){
+com.init = function (stype){
 
 	com.nowStype= "stype";
 	var stype = com.stype[com.nowStype];
