@@ -29,3 +29,8 @@
 <h2 align="left">
   <a href="https://aaoe.github.io/bigwatermelon">合成大西瓜-Watermelon</a>
 </h2>
+
+<h2 align="left">
+  <a href="https://aaoe.github.io/Games/die">一个都不能死-Can't die</a>
+</h2>
+
