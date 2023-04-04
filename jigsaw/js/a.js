@@ -3,7 +3,7 @@
 }
 
 function goHome() {
-	window.location.href ='http://www.xiaoqbk.com';
+	window.location.href ='https://aaoe.github.io';
 }
 
 function a_submitScore(score) {
@@ -12,8 +12,8 @@ function a_submitScore(score) {
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'http://www.xiaoqbk.com/content/uploadfile/201906/2b8e1561550213.png';
-	lineLink = 'http://www.xiaoqbk.com';
+	imgUrl = 'https://aaoe.github.io/games/img/Logo.png';
+	lineLink = 'https://aaoe.github.io';
 	descContent = "这3D转啊转到我头晕！";
 	updateShareScore(bestScore);
 	appid = '';
