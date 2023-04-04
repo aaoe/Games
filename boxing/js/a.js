@@ -3,7 +3,7 @@
 }
 
 function goHome() {
-	window.location.href ='https://aaoe.github.io/;
+	window.location.href ='https://aaoe.github.io';
 }
 
 function a_submitScore(score) {
@@ -12,8 +12,8 @@ function a_submitScore(score) {
 }
 
 function updateShare(bestScore) {
-	imgUrl = 'https://aaoe.github.io/games/img/Logo.png
-	lineLink = 'https://aaoe.github.io/;
+	imgUrl = 'https://aaoe.github.io/games/img/Logo.png';
+	lineLink = 'https://aaoe.github.io/';
 	descContent = "各位选手快来争夺拳王宝座吧！";
 	updateShareScore(bestScore);
 	appid = '';
