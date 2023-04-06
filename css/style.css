@@ -24,7 +24,7 @@ body {
 .center-list{
 	display: flex;                /*设置为flex布局*/
 	width: 100%;
-	margin: 0 0%;
+	margin: 0 10%;
 	}
 .centerBody{
 	width: 100%;
@@ -73,13 +73,13 @@ body {
 @media screen and (max-width: 950px) {
 	
 	.centerBody{
-		margin-top: 1%;
+		margin-top: 2%;
 	}
 	.centerBody img{
 		width: 100%;
 	}
 	.center-list {
 	    width: 100%;
-	    margin: 0 1%;
+	    margin: 0 2%;
 	}
 }
