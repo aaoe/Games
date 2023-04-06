@@ -14,7 +14,7 @@ body {
 }
 
 .centerBox {
-	display: flex;                /*设置为flex布局*/
+	display: flex;                /*璁剧疆涓篺lex甯冨眬*/
 	position: absolute;
 	z-index: 1;
 	width: 100%;
@@ -22,7 +22,7 @@ body {
 	color: white;
 }
 .center-list{
-	display: flex;                /*设置为flex布局*/
+	display: flex;                /*璁剧疆涓篺lex甯冨眬*/
 	width: 100%;
 	margin: 0 0%;
 	}
@@ -37,7 +37,7 @@ body {
 .btn-p{
 	margin-top: 30px;
 	margin-bottom: 30px;
-	display: flex;                /*设置为flex布局*/
+	display: flex;                /*璁剧疆涓篺lex甯冨眬*/
 }
 .btn-p a{
 	font-size: clamp(0.75rem, 0.636rem + 0.57vw, 1.063rem);
@@ -73,13 +73,13 @@ body {
 @media screen and (max-width: 950px) {
 	
 	.centerBody{
-		margin-top: 55%;
+		margin-top: 1%;
 	}
 	.centerBody img{
 		width: 100%;
 	}
 	.center-list {
-	    width: 90%;
-	    margin: 0 5%;
+	    width: 100%;
+	    margin: 0 1%;
 	}
 }
